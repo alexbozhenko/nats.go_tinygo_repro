@@ -12,4 +12,6 @@ require (
 	golang.org/x/sys v0.32.0 // indirect
 )
 
-replace github.com/nats-io/nats.go => github.com/alexbozhenko/nats.go v0.0.0-20250513050612-7dfa823182e9
+// The module is my fork of github.com/nats-io/nats.go where I simply commented stuff that was breaking compilation with tinygo.
+// It is located here: https://github.com/alexbozhenko/nats.go/tree/tinygo
+replace github.com/nats-io/nats.go => github.com/alexbozhenko/nats.go v0.0.0-20250513161120-475d0012909e

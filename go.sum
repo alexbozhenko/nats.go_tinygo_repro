@@ -1,5 +1,5 @@
-github.com/alexbozhenko/nats.go v0.0.0-20250513050612-7dfa823182e9 h1:Ele6RH2UnWLW3LDAr/0fb0f6slp4ZUnnM01/jWfW6AQ=
-github.com/alexbozhenko/nats.go v0.0.0-20250513050612-7dfa823182e9/go.mod h1:iRWIPokVIFbVijxuMQq4y9ttaBTMe0SFdlZfMDd+33g=
+github.com/alexbozhenko/nats.go v0.0.0-20250513161120-475d0012909e h1:bty8kjpkJEsitYkEgOZrKejVD/X930qgFP45d+wQp1g=
+github.com/alexbozhenko/nats.go v0.0.0-20250513161120-475d0012909e/go.mod h1:iRWIPokVIFbVijxuMQq4y9ttaBTMe0SFdlZfMDd+33g=
 github.com/klauspost/compress v1.18.0 h1:c/Cqfb0r+Yi+JtIEq73FWXVkRonBlf0CRNYc8Zttxdo=
 github.com/klauspost/compress v1.18.0/go.mod h1:2Pp+KzxcywXVXMr50+X0Q/Lsb43OQHYWRCY2AiWywWQ=
 github.com/nats-io/nkeys v0.4.11 h1:q44qGV008kYd9W1b1nEBkNzvnWxtRSQ7A8BoqRrcfa0=

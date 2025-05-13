@@ -21,6 +21,6 @@ Observe the LED is not blinking.
 
 The module is my fork of github.com/nats-io/nats.go where I simply commented stuff that was
 breaking compilation with tinygo.
-`github.com/alexbozhenko/nats.go@7ffa6065125964c11432792f4e97c72c0b85553b`
+https://github.com/alexbozhenko/nats.go/tree/tinygo
 
 Somehow, the import of `github.com/nats-io/nats.go` is breaking... something.
